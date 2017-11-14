@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'slcsp_finder'
+
+puts "hello world"
