@@ -1,9 +1,9 @@
-require "slcsp_finder/version"
-
 module SlcspFinder
-  class Runner
-    def call
-      "test"
+  def self.run(filename)
+    if filename == nil
+      "Please include a file name in your call."
+    else
+      #call logic
     end
   end
 end

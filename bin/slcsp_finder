@@ -2,4 +2,4 @@
 
 require 'slcsp_finder'
 
-puts "hello world"
+puts SlcspFinder.run(ARGV[0])
