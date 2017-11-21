@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'slcsp_finder'
-
-puts SlcspFinder.run(ARGV[0])
