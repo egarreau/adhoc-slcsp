@@ -4,7 +4,7 @@ Determine the second lowest cost silver plan (SLCSP) for a group of zipcodes.
 
 # Output
 
-Modified `[slcsp.csv]`(slcsp.csv).
+Modified [`slcsp.csv`](slcsp.csv).
 
 ## Requirements
 
